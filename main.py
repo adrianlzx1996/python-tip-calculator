@@ -7,7 +7,7 @@
 
 #Write your code below this line 👇
 
-bill = input("How much is the bill? ")
+bill = input("How much is the bill? $")
 bill_as_float = float(bill)
 
 person = input("How many person to split between? ")
